@@ -15,3 +15,7 @@ command line: `npm start`
    
 ## Running in Docker container
 command line: `docker-compose build && docker-compose up` 
+
+
+## Web server default url:
+Default URL [http://localhost:3000/](http://localhost:3000/)
